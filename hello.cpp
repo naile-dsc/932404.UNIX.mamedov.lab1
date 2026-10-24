@@ -1,4 +1,4 @@
-// Output: hello_program
+// Output: my_cool_program
 
 #include <iostream>
 
